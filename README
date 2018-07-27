@@ -1,4 +1,4 @@
-How to build Mobule for Platform
+How to build Module for Platform
 - It is only for modules are needed to using Android build system.
 - Please check its own install information under its folder for other module.
 
@@ -48,12 +48,4 @@ PRODUCT_PACKAGES += \
 
 4. excute build command
     make -j64
-
-
-
-5. Note : 
-   To download the source code of S/W listed below, please visit http://opensource.samsung.com and find ¡°Mobile -> Mobile Application¡± menu, 
-   and then, you will be able to download what you want. 
-   You might save time in finding the right one by making use of the search keyword below. 
-   - SBrowser_3.0.38_MASS_LATEST.apk : "Sbrowser"
 
